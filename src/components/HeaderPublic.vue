@@ -8,7 +8,7 @@
             <div class="container-fluid">
                 
                 <router-link class="navbar-brand p-0" to="/">
-                    <img src="@/assets/CtrlCash.png" alt="CtrlCash Logo" width="140" height="40">
+                    <img src="@/assets/CtrlCash-white.png" alt="CtrlCash Logo" width="140" height="40">
                 </router-link>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -22,7 +22,7 @@
                         <router-link to="/about" class="nav-link">Sobre nós</router-link>
                         <router-link to="/help" class="nav-link me-3">Ajuda</router-link> 
                         
-                        <router-link to="/register" class="btn btn-success me-2">Abrir Conta</router-link>
+                        <router-link to="/cadastro" class="btn btn-success me-2">Abrir Conta</router-link>
                         <router-link to="/login" class="btn btn-light text-primary">Login</router-link>
 
                     </div>

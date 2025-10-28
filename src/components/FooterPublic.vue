@@ -4,7 +4,7 @@
             <div class="row g-4">
                 
                 <div class="col-md-4 col-12">
-                    <img src="@/assets/CtrlCash.png" alt="CtrlCash Logo" width="120" height="35" class="mb-3">
+                    <img src="@/assets/CtrlCash-white.png" alt="CtrlCash Logo" width="120" height="35" class="mb-3">
                     <p class="text-secondary-footer mt-2">
                         Seu dinheiro. Seu controle total.
                     </p>
