@@ -17,7 +17,6 @@
                     <h5 class="fw-bold text-white-footer mb-3">Navegue</h5>
                     <ul class="list-unstyled">
                         <li class="mb-2"><router-link to="/" class="text-secondary-footer text-decoration-none">Início</router-link></li>
-                        <li class="mb-2"><router-link to="/features" class="text-secondary-footer text-decoration-none">Recursos</router-link></li>
                         <li class="mb-2"><router-link to="/about" class="text-secondary-footer text-decoration-none">Sobre Nós</router-link></li>
                         <li class="mb-2"><router-link to="/help" class="text-secondary-footer text-decoration-none">Ajuda</router-link></li>
                     </ul>
